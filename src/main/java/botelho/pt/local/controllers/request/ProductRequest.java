@@ -6,4 +6,5 @@ package botelho.pt.local.controllers.request;
 
 public class ProductRequest {
     public int Id;
+    public String name;
 }
